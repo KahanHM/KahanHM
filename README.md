@@ -1,91 +1,81 @@
-<h1 align="center">👋 Hello! I'm Kahan</h1>
+<h1 align="center">Kahan HM</h1>
 
 <p align="center">
-  🌍 DevOps Enthusiast | ☁️ Cloud Practitioner | 🐳 Containerization Explorer <br>
-  🔧 Automating infrastructure, scaling solutions, and always learning!  
+  DevOps Engineer &nbsp;·&nbsp; Cloud Infrastructure &nbsp;·&nbsp; CI/CD & Automation<br>
+  <em>Building reliable systems, one pipeline at a time.</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HM-Techies&label=Profile+Views&color=0e75b6&style=flat" alt="HM-Techies" />
+  <img src="https://komarev.com/ghpvc/?username=HM-Techies&label=Profile+Views&color=555&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 💼 About Me
+## About me
 
-- 👨‍💻 I'm a **DevOps Engineer Intern** turned Cloud enthusiast with real-world experience in:
-  - Infrastructure Automation (Terraform, Ansible)
-  - CI/CD with Jenkins, GitHub Actions
-  - Docker & Kubernetes for containerization
-  - GCP & AWS cloud platforms
-  - Monitoring & alerting using Steampipe, Zabbix, SNS, Lambda, EventBridge
+I'm a DevOps Engineer with hands-on experience turning manual infrastructure into automated, observable, and scalable systems. I've worked across the full operational stack — from writing Terraform modules and Ansible playbooks to building CI/CD pipelines and setting up cloud-native monitoring.
 
-- 🌱 I'm currently learning:
-  - 🔹 Advanced Kubernetes (Helm, Ingress, StatefulSets)
-  - 🔹 Real-world monitoring & alerting pipelines
-  - 🔹 Infrastructure reuse via modules & GitHub repo automation
-  - 🔹 DevOps blogging & documentation writing
+- **Infrastructure automation** — Terraform & Ansible for provisioning and configuration management at scale
+- **CI/CD** — Jenkins and GitHub Actions for automated build, test, and deploy workflows
+- **Cloud platforms** — GCP and AWS: compute, networking, storage, IAM, and serverless
+- **Monitoring & alerting** — Steampipe, Zabbix, AWS SNS, Lambda, and EventBridge
+- **Containerisation** — Docker and Kubernetes for packaging and orchestrating workloads
 
-- 💡 I believe in:  
-  _"Break → Learn → Build → Automate → Document → Teach."_  
-
-- 🌐 Portfolio: [https://kahan.cloud](https://kahan.cloud)
+> *"Break → Learn → Build → Automate → Document → Teach."*
 
 ---
 
-## 🤝 Let’s Collaborate
+## Currently learning
 
-- 💬 Open to **collaborate** on:
-  - Real-world DevOps or open-source infra projects
-  - Documenting beginner-friendly tutorials
-  - Portfolio reviews, GitHub Actions workflows, and cloud-native tools
-
-- 🔗 Always ready to support fellow learners!  
-  (_உண்மை உழைப்பால் முன்னேற முடியும்_ 💪 — "Hard work leads to growth")  
+- Advanced Kubernetes — Helm charts, Ingress controllers, StatefulSets
+- End-to-end monitoring & alerting pipelines in production environments
+- Reusable Terraform modules and GitHub repository automation
+- DevOps technical writing and documentation for the community
 
 ---
 
-## 📫 Reach Me
+## Tech stack
 
-- 🔗 LinkedIn: [linkedin.com/in/kahanhm](https://linkedin.com/in/kahanhm)
-- 💻 GitHub: [github.com/HM-Techies](https://github.com/HM-Techies)
-- 🌍 Website: [https://kahan.cloud](https://kahan.cloud)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kahanhm&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahanhm&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kahanhm&show_icons=true&theme=default&hide_border=true&title_color=555&text_color=555&icon_color=888" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahanhm&layout=compact&theme=default&hide_border=true&title_color=555&text_color=555" width="46%" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Upcoming blog posts
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white"/>
-</p>
+I'm documenting real projects in a way that's accessible to engineers who are just starting out:
+
+- **Getting started with Terraform and AWS Free Tier** — provision your first cloud infra with zero cost
+- **Monitoring cloud infrastructure with Steampipe + SNS** — query your infra like a database, alert on anything
+- **DevOps projects that help you land your first job** — practical builds that belong in a portfolio
+
+
 
 ---
 
-## ✍️ Blog Plans
+## Let's connect
 
-📝 I'm currently drafting blog posts for:
-- `How to get started with Terraform and AWS Free Tier`
-- `Monitoring Cloud Infrastructure using Steampipe + SNS`
-- `DevOps Projects that Help You Land Your First Job`
+Open to collaborating on real-world DevOps projects, open-source infra tooling, and beginner-friendly tutorials.
 
-> Follow [@HM-Techies](https://github.com/HM-Techies) and stay tuned for updates!
+- 🔗 [linkedin.com/in/kahanhm](https://linkedin.com/in/kahanhm)
+- 💻 [github.com/HM-Techies](https://github.com/HM-Techies)
+- 🌐 [kahan.cloud](https://kahan.cloud)
 
 ---
 
-_Thanks for visiting! Let’s build & learn together 🤝_
-
+<sub>"Hard work leads to growth"</sub>
